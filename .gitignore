@@ -17,6 +17,9 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+OCTemplet.xcodeproj/project.xcworkspace/
+OCTemplet.xcodeproj/xcuserdata/
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
@@ -26,8 +29,8 @@ DerivedData
 #Pods/
  
 .DS_Store
-Podfile.lock
+#Podfile.lock
 Pods/
-OCTemplet.xcodeproj/project.xcworkspace/
-OCTemplet.xcodeproj/xcuserdata/
+
+OCTemplet.xcworkspace/
 OCTemplet.xcworkspace/
