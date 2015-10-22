@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  OCTemplet
+
+  Created by LO_1WD_YZL on 15/10/22.
+  Copyright © 2015年 Shenzhen JiaDianWang Science & Technology Industrial Co., Ltd. All rights reserved.
+*/
+"KEY" = "内容%@";//提示语

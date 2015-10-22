@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSString *content = [NSString stringWithFormat:NSLocalizedString(@"KEY", nil), @(1000000)];
+    NSLog(@"%@", content);
+    
 }
 
 - (void)didReceiveMemoryWarning {
